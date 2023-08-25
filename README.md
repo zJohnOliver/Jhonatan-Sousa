@@ -1,6 +1,6 @@
 ## Yoo!
-- Trabalhando atualmente em desenvolvimento utilizando Delphi
-- Estudando Banco de Dados , Javascript e Delphi
+- 
+- 
  <div>
   <a href="https://github.com/zJohnOliver
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SL3Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
